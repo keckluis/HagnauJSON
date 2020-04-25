@@ -1,0 +1,78 @@
+{
+    "Targets" :
+    [
+      {
+        "name" : "14 ",
+        "url" : "https://youtu.be/g1ocUBjBfNY",
+        "yt": true
+      },
+      {
+        "name" : "52",
+        "url" : "https://youtu.be/g1ocUBjBfNY",
+        "yt": true
+      },
+      {
+        "name" : "17",
+        "url" : "http://www.hagnauer.de/wp-content/uploads/2019/03/Spargel-Rezepte.pdf",
+        "yt": false
+      },
+      {
+        "name" : "21",
+        "url" : "https://youtu.be/WEXbf5LsiZI",
+        "yt": true
+      },
+      {
+        "name" : "32",
+        "url" : "https://youtu.be/l-m28IjaWUg",
+        "yt": true
+      },
+      {
+        "name" : "36",
+        "url" : "https://youtu.be/l-m28IjaWUg",
+        "yt": true
+      },
+      {
+        "name" : "35",
+        "url" : "https://youtu.be/1gURVi-oomQ",
+        "yt": true
+      },
+      {
+        "name" : "42",
+        "url" : "https://youtu.be/1gURVi-oomQ",
+        "yt": true
+      },
+      {
+        "name" : "43",
+        "url" : "https://youtu.be/1gURVi-oomQ",
+        "yt": true
+      },
+      {
+        "name" : "59",
+        "url" : "https://youtu.be/DzFbnsQryLk",
+        "yt": true
+      },
+      {
+        "name" : "86",
+        "url" : "https://youtu.be/wrHB9cbbji4",
+        "yt": true
+      }
+      ,
+      {
+        "name" : "164_166",
+        "url" : "https://youtu.be/TvgpcPGvR5k",
+        "yt": true
+      }
+      ,
+      {
+        "name" : "190",
+        "url" : "https://youtu.be/T51YmI0oJak",
+        "yt": true
+      }
+      ,
+      {
+        "name" : "IBO",
+        "url" : "https://youtu.be/12tkbLSW-eo",
+        "yt": true
+      }
+    ]
+  }
