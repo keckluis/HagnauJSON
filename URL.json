@@ -1,6 +1,7 @@
 [
   {
     "name" : "14 ",
+    "display" : "Hagnau am Bodensee",
     "url" : "https://youtu.be/g1ocUBjBfNY",
     "yt": "true"
   },
@@ -11,16 +12,19 @@
   },
   {
     "name" : "17",
+    "display" : "Spargel Rezepte",
     "url" : "https://hagnauer.de/wp-content/uploads/2020/03/Spargel_Rezeptbuch.pdf",
     "yt": "false"
   },
   {
     "name" : "21",
+    "display" : "Hagnauer Kerner",
     "url" : "https://youtu.be/WEXbf5LsiZI",
     "yt": "true"
   },
   {
     "name" : "32",
+    "display" : "Hagnau im Herbst",
     "url" : "https://youtu.be/l-m28IjaWUg",
     "yt": "true"
   },
@@ -31,6 +35,7 @@
   },
   {
     "name" : "35",
+    "display" : "Hagnauer Burgunder",
     "url" : "https://youtu.be/1gURVi-oomQ",
     "yt": "true"
   },
@@ -46,23 +51,27 @@
   },
   {
     "name" : "59",
+    "display" : "Hagnauer Weinkeller",
     "url" : "https://youtu.be/DzFbnsQryLk",
     "yt": "true"
   },
   {
     "name" : "86",
+    "display" : "Hagnauer Bacchus",
     "url" : "https://youtu.be/wrHB9cbbji4",
     "yt": "true"
   }
   ,
   {
     "name" : "164_166",
+    "display" : "Hagnauer 'Terra'",
     "url" : "https://youtu.be/8ZGBDK5qzrA",
     "yt": "true"
   }
   ,
   {
     "name" : "190",
+    "display" : "Hagnauer Crémant Sekt",
     "url" : "https://youtu.be/T51YmI0oJak",
     "yt": "true"
   }
