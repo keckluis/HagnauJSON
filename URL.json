@@ -19,8 +19,8 @@
   {
     "name" : "18",
     "display" : "Hagnauer Felchen",
-    "url" : "https://hagnauer.de/wp-content/uploads/2020/03/Spargel_Rezeptbuch.pdf",
-    "yt": "false"
+    "url" : "https://youtu.be/CliB2hJ614I",
+    "yt": "true"
   },
   {
     "name" : "21",
@@ -47,7 +47,8 @@
   },
   {
     "name" : "42",
-    "url" : "https://youtu.be/1gURVi-oomQ",
+    "display": "Hagnauer Weißburgunder",
+    "url": "https://youtu.be/ww9XdQcHm8Q",
     "yt": "true"
   },
   {
@@ -64,7 +65,7 @@
   {
     "name" : "86",
     "display" : "Hagnauer Bacchus",
-    "url" : "https://youtu.be/wrHB9cbbji4",
+    "url" : "https://youtu.be/CliB2hJ614I",
     "yt": "true"
   }
   ,
