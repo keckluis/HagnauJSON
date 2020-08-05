@@ -2,150 +2,153 @@
   {
     "name" : "WV",
     "display" : "Winzerverein Hagnau",
-    "url" : "https://youtu.be/no5Pi7Imtpk",
+    "url_int" : "https://youtu.be/oLmedWUjRww",
+    "url_ext" : "https://youtu.be/no5Pi7Imtpk",
     "yt": "true"
   },
   {
     "name" : "Weinberg",
     "display" : "Hagnauer Weinberge",
-    "url" : "https://youtu.be/gCtxJf3MOxk",
+    "url_int" : "https://youtu.be/A6wIwzzkJ1c",
+    "url_ext" : "https://youtu.be/gCtxJf3MOxk",
     "yt": "true"
   },
   {
     "name" : "Schiffe",
     "display" : "Schiffslandestelle Hagnau",
-    "url" : "https://youtu.be/7JvEv8hMjXs",
+    "url_int" : "https://youtu.be/YDgclMcem_4",
+    "url_ext" : "https://youtu.be/7JvEv8hMjXs",
     "yt": "true"
   },
   {
     "name" : "Saeule",
     "display" : "Schneeballensäule",
-    "url" : "https://youtu.be/EHcqkx754TU",
+    "url_int" : "https://youtu.be/8a-sY5FxkmU",
+    "url_ext" : "https://youtu.be/EHcqkx754TU",
     "yt": "true"
   },
   {
     "name" : "Obstbau",
     "display" : "Obstbau in Hagnau",
-    "url" : "https://youtu.be/90SFZl_yESY",
+    "url_int" : "https://youtu.be/KFeqNjFS3yg",
+    "url_ext" : "https://youtu.be/90SFZl_yESY",
     "yt": "true"
   },
   {
     "name" : "Hoehe",
     "display" : "Wilhelmshöhe",
-    "url" : "https://youtu.be/w2w1kvycc0U",
+    "url_int" : "https://youtu.be/phOnoP-8Jac",
+    "url_ext" : "https://youtu.be/w2w1kvycc0U",
     "yt": "true"
   },
   {
     "name" : "Hansjakob",
     "display" : "Heinrich Hansjakob",
-    "url" : "https://youtu.be/PcZIJJJC1vc",
+    "url_int" : "https://youtu.be/eQu6wuPenNU",
+    "url_ext" : "https://youtu.be/PcZIJJJC1vc",
     "yt": "true"
   },
   {
     "name" : "Frenkenbach",
     "display" : "Kapelle in Frenkenbach",
-    "url" : "https://youtu.be/1TRxr1yr58M",
+    "url_int" : "https://youtu.be/JCOwRDNA-hk",
+    "url_ext" : "https://youtu.be/1TRxr1yr58M",
     "yt": "true"
   },
   {
     "name" : "Brennerei",
     "display" : "Hagnauer Brennereien",
-    "url" : "https://youtu.be/ayPR67uQBVY",
+    "url_int" : "https://youtu.be/9FK0p6lmPww",
+    "url_ext" : "https://youtu.be/ayPR67uQBVY",
     "yt": "true"
   },
   {
     "name" : "14",
     "display" : "Hagnau am Bodensee",
-    "url" : "https://youtu.be/g1ocUBjBfNY",
+    "url_ext" : "https://youtu.be/g1ocUBjBfNY",
     "yt": "true"
   },
   {
     "name" : "52",
-    "url" : "https://youtu.be/g1ocUBjBfNY",
+    "url_ext" : "https://youtu.be/g1ocUBjBfNY",
     "yt": "true"
   },
   {
     "name" : "17",
     "display" : "Spargel Rezepte",
-    "url" : "https://hagnauer.de/wp-content/uploads/2020/03/Spargel_Rezeptbuch.pdf",
+    "url_ext" : "https://hagnauer.de/wp-content/uploads/2020/03/Spargel_Rezeptbuch.pdf",
     "yt": "false"
   },
   {
     "name" : "18",
     "display" : "Hagnauer Felchen",
-    "url" : "https://youtu.be/t147K9Ku9Uk",
+    "url_ext" : "https://youtu.be/t147K9Ku9Uk",
     "yt": "true"
   },
   {
     "name" : "21",
     "display" : "Hagnauer Kerner",
-    "url" : "https://youtu.be/WEXbf5LsiZI",
+    "url_ext" : "https://youtu.be/WEXbf5LsiZI",
     "yt": "true"
   },
   {
     "name" : "32",
     "display" : "Hagnau im Herbst",
-    "url" : "https://youtu.be/l-m28IjaWUg",
+    "url_ext" : "https://youtu.be/l-m28IjaWUg",
     "yt": "true"
   },
   {
     "name" : "36",
-    "url" : "https://youtu.be/l-m28IjaWUg",
+    "url_ext" : "https://youtu.be/l-m28IjaWUg",
     "yt": "true"
   },
   {
     "name" : "35",
     "display" : "Hagnauer Burgunder",
-    "url" : "https://youtu.be/1gURVi-oomQ",
+    "url_ext" : "https://youtu.be/1gURVi-oomQ",
     "yt": "true"
   },
   {
     "name" : "42",
     "display": "Hagnauer Weißburgunder",
-    "url": "https://youtu.be/ww9XdQcHm8Q",
+    "url_ext": "https://youtu.be/ww9XdQcHm8Q",
     "yt": "true"
   },
   {
     "name" : "43",
-    "url" : "https://youtu.be/1gURVi-oomQ",
+    "url_ext" : "https://youtu.be/1gURVi-oomQ",
     "yt": "true"
   },
   {
     "name" : "59",
     "display" : "Hagnauer Weinkeller",
-    "url" : "https://youtu.be/DzFbnsQryLk",
+    "url_ext" : "https://youtu.be/DzFbnsQryLk",
     "yt": "true"
   },
   {
     "name" : "86",
     "display" : "Hagnauer Bacchus",
-    "url" : "https://youtu.be/CliB2hJ614I",
+    "url_ext" : "https://youtu.be/CliB2hJ614I",
     "yt": "true"
   }
   ,
   {
     "name" : "164_166",
     "display" : "Hagnauer Terra",
-    "url" : "https://youtu.be/8ZGBDK5qzrA",
+    "url_ext" : "https://youtu.be/8ZGBDK5qzrA",
     "yt": "true"
   }
   ,
   {
     "name" : "190",
     "display" : "Hagnauer Crémant Sekt",
-    "url" : "https://youtu.be/T51YmI0oJak",
+    "url_ext" : "https://youtu.be/T51YmI0oJak",
     "yt": "true"
   }
   ,
   {
     "name" : "IBO",
-    "url" : "https://youtu.be/12tkbLSW-eo",
-    "yt": "true"
-  },
-  {
-    "name" : "Interboot",
-    "display": "TEST",
-    "url" : "https://youtu.be/2WKYCqccs1A",
+    "url_ext" : "https://youtu.be/12tkbLSW-eo",
     "yt": "true"
   }
 ]
