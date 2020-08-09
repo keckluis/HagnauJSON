@@ -65,11 +65,13 @@
   {
     "name" : "14",
     "display" : "Hagnau am Bodensee",
+    "url_int" : "https://youtu.be/FLJn3-j8MlE",
     "url_ext" : "https://youtu.be/g1ocUBjBfNY",
     "yt": "true"
   },
   {
     "name" : "52",
+    "url_int" : "https://youtu.be/FLJn3-j8MlE",
     "url_ext" : "https://youtu.be/g1ocUBjBfNY",
     "yt": "true"
   },
@@ -82,72 +84,81 @@
   {
     "name" : "18",
     "display" : "Hagnauer Felchen",
+    "url_int" : "https://youtu.be/XvSqN_nv688",
     "url_ext" : "https://youtu.be/t147K9Ku9Uk",
     "yt": "true"
   },
   {
     "name" : "21",
     "display" : "Hagnauer Kerner",
+    "url_int" : "https://youtu.be/MqpCfYhEWzs",
     "url_ext" : "https://youtu.be/WEXbf5LsiZI",
     "yt": "true"
   },
   {
     "name" : "32",
     "display" : "Hagnau im Herbst",
+    "url_int" : "https://youtu.be/TeUwbb-EL-o",
     "url_ext" : "https://youtu.be/l-m28IjaWUg",
     "yt": "true"
   },
   {
     "name" : "36",
+    "url_int" : "https://youtu.be/TeUwbb-EL-o",
     "url_ext" : "https://youtu.be/l-m28IjaWUg",
     "yt": "true"
   },
   {
     "name" : "35",
     "display" : "Hagnauer Burgunder",
+    "url_int" : "https://youtu.be/4PtW0Eibonc",
     "url_ext" : "https://youtu.be/1gURVi-oomQ",
     "yt": "true"
   },
   {
     "name" : "42",
     "display": "Hagnauer Weißburgunder",
+    "url_int" : "https://youtu.be/jOed47EIkRY",
     "url_ext": "https://youtu.be/ww9XdQcHm8Q",
     "yt": "true"
   },
   {
     "name" : "43",
+    "url_int" : "https://youtu.be/4PtW0Eibonc",
     "url_ext" : "https://youtu.be/1gURVi-oomQ",
     "yt": "true"
   },
   {
     "name" : "59",
     "display" : "Hagnauer Weinkeller",
+    "url_int" : "https://youtu.be/saDnomgOZqE",
     "url_ext" : "https://youtu.be/DzFbnsQryLk",
     "yt": "true"
   },
   {
     "name" : "86",
     "display" : "Hagnauer Bacchus",
+    "url_int" : "https://youtu.be/6JgcX4WZfko",
     "url_ext" : "https://youtu.be/CliB2hJ614I",
     "yt": "true"
-  }
-  ,
+  },
   {
     "name" : "164_166",
     "display" : "Hagnauer Terra",
+    "url_int" : "https://youtu.be/8ZGBDK5qzrA",
     "url_ext" : "https://youtu.be/8ZGBDK5qzrA",
     "yt": "true"
-  }
-  ,
+  },
   {
     "name" : "190",
     "display" : "Hagnauer Crémant Sekt",
+    "url_int" : "https://youtu.be/q-eCh19KRFM",
     "url_ext" : "https://youtu.be/T51YmI0oJak",
     "yt": "true"
-  }
-  ,
+  },
   {
     "name" : "IBO",
+    "url_int" : "https://youtu.be/T-L5i32lgG0",
     "url_ext" : "https://youtu.be/12tkbLSW-eo",
     "yt": "true"
   }
