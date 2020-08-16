@@ -71,6 +71,7 @@
   },
   {
     "name" : "52",
+    "hidden_name" : "Hagnau am Bodensee",
     "url_int" : "https://youtu.be/FLJn3-j8MlE",
     "url_ext" : "https://youtu.be/g1ocUBjBfNY",
     "yt": "true"
@@ -104,6 +105,7 @@
   },
   {
     "name" : "36",
+    "hidden_name" : "Hagnau im Herbst",
     "url_int" : "https://youtu.be/TeUwbb-EL-o",
     "url_ext" : "https://youtu.be/l-m28IjaWUg",
     "yt": "true"
@@ -124,6 +126,7 @@
   },
   {
     "name" : "43",
+    "hidden_name" : "Hagnauer Burgunder",
     "url_int" : "https://youtu.be/4PtW0Eibonc",
     "url_ext" : "https://youtu.be/1gURVi-oomQ",
     "yt": "true"
@@ -158,6 +161,7 @@
   },
   {
     "name" : "IBO",
+    "hidden_name" : "70 Jahre IBO",
     "url_int" : "https://youtu.be/T-L5i32lgG0",
     "url_ext" : "https://youtu.be/12tkbLSW-eo",
     "yt": "true"
