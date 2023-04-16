@@ -154,7 +154,7 @@
   },
   {
     "name" : "190",
-    "display" : "Hagnauer Crémant Sekt",
+    "hidden_name" : "Hagnauer Crémant Sekt",
     "url_int" : "https://youtu.be/q-eCh19KRFM",
     "url_ext" : "https://youtu.be/T51YmI0oJak",
     "yt": "true"
